@@ -16,6 +16,9 @@ The project contains three notebooks:
 - **analysis.ipynb**: Contains detailed analysis of the dataset
 - **model_eval.ipynb**: Contains evaluation and details of the given model in the task
 - **improved_model.ipynb**: Improved model built to enhance performance
+- **data**: Contains two data files - images.npy and labels.npy
+- **model**: Contains the model given to evaluate for the task
+- **images**: Contains the images of analysis plots
 
 ## About the Project
 
