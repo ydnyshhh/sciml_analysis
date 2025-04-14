@@ -1,5 +1,4 @@
-# GSOC - 2025 - CERN - Evaluation Task
-## Project Title: High Granularity Quantization for CICADA
+# Analysis of a Scientific Dataset via Machine Learning
 
 ## Installation
 
